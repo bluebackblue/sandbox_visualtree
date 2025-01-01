@@ -71,3 +71,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   value_bool: 0
   value_int: 0
+  value_class:
+    member_a: 0
+    member_b: 0
+    member_c: 0
+  value_struct:
+    member_a: 0
+    member_b: 0
+    member_c: 0
+  value_class_list:
+  - member_a: 0
+    member_b: 0
+    member_c: 0
+  value_struct_list:
+  - member_a: 0
+    member_b: 0
+    member_c: 0
+  - member_a: 0
+    member_b: 0
+    member_c: 0
